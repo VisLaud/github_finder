@@ -56,7 +56,7 @@ img {
 }
 
 .large {
-  font-size: 3rem;
+  font-size: 2.9rem;
   line-height: 1.2;
   margin-bottom: 1rem;
 }
@@ -385,7 +385,7 @@ table th {
   .grid-2,
   .grid-3,
   .grid-4 {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1.1fr;
   }
 
   /* Text Styles */
